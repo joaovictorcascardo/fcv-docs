@@ -3,14 +3,6 @@
 Documentação geral da Plataforma de Benefícios FCV (projeto integrador, 5º período, Faminas).
 Aqui fica só o que vale para o sistema inteiro; o que é de uma frente fica no repositório dela.
 
-## Documentos
-
-| Documento | O que tem |
-| --- | --- |
-| [ADR](arquitetura/ADR_Arquitetura_Tecnologias_FCV.pdf) | Stack e arquitetura da API, do portal e do app |
-| [Requisitos](requisitos/Documento_Requisitos_FCV.pdf) | Escopo, requisitos funcionais e não funcionais, casos de uso |
-| [Diagrama de classes](modelagem/diagrama_classes_fcv.drawio) | As 10 entidades e como se relacionam (abrir no [draw.io](https://app.diagrams.net)) |
-
 ## Repositórios do projeto
 
 | Frente | Repositório | Grupo |
@@ -55,5 +47,5 @@ O passo a passo para rodar está no README do `fcv-backend`.
 
 - Mudou um documento: substitua o arquivo na mesma pasta, com o mesmo nome, e faça um commit `docs: atualiza ...`.
   O histórico do GitHub guarda as versões antigas, então não crie cópias como `_v2` ou `_final`.
-- Documento novo que vale para o sistema inteiro: coloque na pasta certa e adicione uma linha na tabela de documentos.
+- Documento novo que vale para o sistema inteiro: coloque na pasta certa.
 - Documento de uma frente só (telas do app, circuito do totem, banco da API): vai no repositório daquela frente.
