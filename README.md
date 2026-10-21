@@ -39,10 +39,3 @@ Aqui fica só o que vale para o sistema inteiro; o que é de uma frente fica no 
 | Samuel Salazar | [salazarr0](https://github.com/salazarr0) |
 | Samuel Souza | [Samuel-SouzaZz](https://github.com/Samuel-SouzaZz) |
 | Thales | [thalesfercaetano](https://github.com/thalesfercaetano) |
-
-## Como atualizar
-
-- Mudou um documento: substitua o arquivo na mesma pasta, com o mesmo nome, e faça um commit `docs: atualiza ...`.
-  O histórico do GitHub guarda as versões antigas, então não crie cópias como `_v2` ou `_final`.
-- Documento novo que vale para o sistema inteiro: coloque na pasta certa.
-- Documento de uma frente só (telas do app, circuito do totem, banco da API): vai no repositório daquela frente.
